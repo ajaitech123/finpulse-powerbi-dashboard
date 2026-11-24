@@ -1,6 +1,6 @@
 # FinPulse – Financial Analytics Dashboard (Power BI)
 
-![Dashboard](assets/dashboard_preview.png)
+![Dashboard](Dashboard.png)
 ![Profitability](assets/profitability_preview.png)
 
 A two-page Power BI dashboard that analyses revenue, expenses and profit for a fictional business over **2022-2025** (24,699 transactions, 150 customers, 20 products, 4 departments, 4 sales channels).
