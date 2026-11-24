@@ -1,0 +1,21 @@
+product_id,product_name,category,department,list_price
+P001,Office Chair,Furniture,Operations,9500
+P002,Standing Desk,Furniture,Operations,24000
+P003,Filing Cabinet,Furniture,Operations,7800
+P004,Laptop,Technology,Technology,68000
+P005,Tablet,Technology,Technology,32000
+P006,External SSD,Technology,Technology,7500
+P007,Business Laptop,Technology,Technology,85000
+P008,Cloud Subscription,Software,Technology,18000
+P009,Accounting Software,Software,Finance,26000
+P010,Backup Service,Software,Technology,14000
+P011,Security Suite,Software,Finance,21000
+P012,Printer,Office Equipment,Operations,16000
+P013,Document Scanner,Office Equipment,Operations,12500
+P014,Projector,Office Equipment,Marketing,28000
+P015,Shredder,Office Equipment,Operations,6500
+P016,Keyboard & Mouse,Accessories,Marketing,2200
+P017,Webcam,Accessories,Marketing,3800
+P018,Headset,Accessories,Marketing,4500
+P019,Monitor Stand,Accessories,Operations,2800
+P020,Ad Banner Pack,Accessories,Marketing,5200
